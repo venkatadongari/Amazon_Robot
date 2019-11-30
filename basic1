@@ -1,0 +1,3 @@
+@echo off
+cd C:\Users\vdongari\PycharmProjects\Linkedin_Training
+call robot -d Results/Tast_Schedular Tests/amazon.robot
